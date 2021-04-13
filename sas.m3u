@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LOCAL", SEA TODAY
+https://cdn08jtedge.useetv.com/joss/133/seatoday/chunklist_w1948784373_b1344100_sleng.m3u8?enc=-meKeCbE9X8EkJmrsKmedQ&uid=&exp=1618297919
+
+#EXTINF:-1 group-title="LOCAL", TVRI
+https://cdn08jtedge.useetv.com/joss/133/tvri/chunklist_w1740167781_b1004100_sleng.m3u8?enc=hJ7dt5ZJ8OoB4W62XPQ0qg&uid=&exp=1618298519
+
+#EXTINF:-1 group-title="LOCAL", KOMPAS TV
+https://cdn08jtedge.useetv.com/joss/133/kompastv/chunklist_w1520086830_b684100_sleng.m3u8?enc=tqJbLJDINltPYa0DfoYqGA&uid=&exp=1618298722
+
+#EXTINF:-1 group-title="LOCAL", METRO TV
+https://cdn08jtedge.useetv.com/joss/133/metrotv/chunklist_w618963479_b1344100_sleng.m3u8?enc=2H5Td43PQjrizVnMlGumfw&uid=&exp=1618298864
+
+#EXTINF:-1 group-title="LOCAL", NET TV
+https://cdn08jtedge.useetv.com/joss/133/net/chunklist_w1149217380_b1344100_sleng.m3u8?enc=d3zX6bwRxbvafsNI0MFmQg&uid=&exp=1618298919
+
+#EXTINF:-1 group-title="LOCAL", TRANS 7
+https://cdn08jtedge.useetv.com/joss/133/trans7/chunklist_w1059338739_b1344100_sleng.m3u8?enc=n8ii--XtbMxGklttdvOdUA&uid=&exp=1618299008
+
+#EXTINF:-1 group-title="LOCAL", TRANS TV
+https://cdn08jtedge.useetv.com/joss/133/transtv/chunklist_w163355491_b1344100_sleng.m3u8?enc=tC63nygFMwvDccSubKDx2w&uid=&exp=1618299128
+
+#EXTINF:-1 group-title="LOCAL", ANTV
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=289998767&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDU6MTU6MjMgQU0maGFzaF92YWx1ZT0zK0tzZFNWQ3hhZXpMdTFrQzBYVjhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTAyMjU5MzZ8MTE4Ljk5LjEwNC4xMzY=
+
+#EXTINF:-1 group-title="LOCAL", RCTI
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/rcti2_all/skrz1j8exe/rcti2_576p/chunks.m3u8?nimblesessionid=289999196&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDU6MTU6MjMgQU0maGFzaF92YWx1ZT0zK0tzZFNWQ3hhZXpMdTFrQzBYVjhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTAyMjU5MzZ8MTE4Ljk5LjEwNC4xMzY=
+
+#EXTINF:-1 group-title="LOCAL", MNC TV
+https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/mnctv2_all/skrz1j8exe/mnctv2_576p/chunks.m3u8?nimblesessionid=289999488&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDIxIDU6MTU6MjMgQU0maGFzaF92YWx1ZT0zK0tzZFNWQ3hhZXpMdTFrQzBYVjhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTAyMjU5MzZ8MTE4Ljk5LjEwNC4xMzY=
+
+#EXTINF:-1 group-title="LOCAL", O CHANNEL
+https://etslive-2-vidio-com.akamaized.net/exp=1618306689~acl=/hls-p/ingest_206_*/*~hmac=7928e675e87f529450d4b442b0c20e354ee3aad7a230b1737e63431051bb1d61/hls-p/ingest_206_720p/index.m3u8
+
+#EXTINF:-1 group-title="LOCAL", INDOSIAR
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
+#EXTINF:-1 group-title="LUAR", HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYxODM5ODQ1MX19fV19&Signature=GDUHsmtpaxxJVvSV6twjhorplUU7OoE~UJ7mFN1RwClfXa3lP6BDiNp4ftZwA3bMBYT3e0nYJivbAtW2BDCgGo0QOzHFGx-OEFTr1bVkoRcX8vdd1SSUFoEJDojBfWvad5ap20Zy7LaRKwNRVqDMildr-ILd-ZiN3RwO6~PNi1WsWahyBk77TwQXexfkcMyhjChNt4cCk3yvXeXHLW9s-Vu2KR1GG~Z6kVzwnebXiAn6CKZHDqugPiT9Tceva1PiwakMHuQesv18S1rodJTpnSSRkYNp95dygT6wn-7uK~bev6S5eUJM~VuWW4EX2y8v7x~350NHLSFCVSvTBOIoSQ__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 group-title="LUAR", NHK WORLD
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
